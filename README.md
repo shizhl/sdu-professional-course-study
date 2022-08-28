@@ -7,7 +7,9 @@ all of the course materials are included, such as the examination exercises over
 
 # Contact
 If there is any question or suggestion, please contact the author by email or QQ.
+
 Email : shizhl@mail.sdu.edu.cn
+
 QQ    : 1172159897
 
 # Acknowledge
