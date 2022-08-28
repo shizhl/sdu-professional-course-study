@@ -1,0 +1,8 @@
+并行计算常用文档整理
+1.    
+#pragma omp parallel
+{
+	int ID=omp_get_thread_num(); //得到一个新的线程的ID
+	printf("hello (%d)",ID);
+	printf("world (%d)\n",ID);
+}
